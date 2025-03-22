@@ -1086,3 +1086,8 @@ Redis Cache
 1) Transactional tables : CRUD operations
 
 2) Non-Transactional Tables : SELECT
+
+
+
+
+Rajesh
